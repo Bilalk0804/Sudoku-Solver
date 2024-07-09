@@ -1,2 +1,3 @@
 # Sudoku-Solver
-The is an algorithm for solving Sudoku Puzzles. 
+Hello Everyone! In the repo you can find an algorithm to solve Sudoku puzzles. 
+The algorithm is written in C programming language.
